@@ -1,0 +1,6 @@
+{
+    "env": {
+        "DB_URI": "mongodb+srv://lithium98616:a0vz0hKcJXGhgQiU@cluster0.ssjb019.mongodb.net/",
+        "JWT_KEY": "hj213218sdahe1`298sadajsad,9**"
+    }
+}
